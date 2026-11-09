@@ -1,0 +1,9 @@
+[server]
+# Allow uploads up to 2 GB (Streamlit's default limit is 200 MB).
+maxUploadSize = 2048
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#2E7DFF"

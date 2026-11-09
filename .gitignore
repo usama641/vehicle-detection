@@ -1,0 +1,15 @@
+# Python (api/)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+api/models/*.pt
+api/input_videos/*
+api/output_videos/*
+api/reports/*
+!api/*/.gitkeep
+
+# Node (web/) - see also web/.gitignore
+node_modules/
+.next/
